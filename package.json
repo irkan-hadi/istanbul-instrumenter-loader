@@ -10,7 +10,7 @@
   "files": [ "index.js" ],
   "dependencies": {
     "istanbul": "0.x.x",
-    "loader-utils": "1.4.2",
+    "loader-utils": "2.0.4",
     "object-assign": "4.x.x"
   },
   "engines": {
